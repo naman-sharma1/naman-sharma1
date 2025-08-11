@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman-sharma1" alt="naman-sharma1" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structure and Algorithim**
+- 🔭 I’m currently working on **Programming Languages and AI**
 
-- 🌱 I’m currently learning **Data Structure and Algorithims**
+- 🌱 I’m currently learning **AI and DSA**
+
+- 🤝 I’m looking for help with **Open Source Contributions**
 
 - 📫 How to reach me **sharma.naman2810@gmail.com**
 
